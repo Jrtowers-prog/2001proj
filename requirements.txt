@@ -4,4 +4,3 @@ pyodbc
 python-dotenv
 pydantic
 requests
-pytest
